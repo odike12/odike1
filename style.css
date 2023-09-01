@@ -15,7 +15,7 @@ img{
   }
 
   .row{
-    padding: 1rem;
+    padding: 5rem;
   }
 
   .content li:hover{
@@ -26,5 +26,11 @@ img{
 
   footer{
     text-align: center;
+  }
+
+  button{
+    background-color:blue;
+    text-align: center;
+    font-size: larger;
   }
   
